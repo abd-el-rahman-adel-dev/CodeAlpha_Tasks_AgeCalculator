@@ -19,7 +19,8 @@ It calculates your exact age based on your birthdate input.
 
 ## 📸 Screenshot
 
-![Age Calculator Screenshot](./screenshot.png) <!-- أضف صورة واجهة التطبيق إذا متوفرة -->
+![Age Calculator Screenshot](./screenshot-1.png) <!-- أضف صورة واجهة التطبيق إذا متوفرة -->
+![Age Calculator Screenshot](./screenshot-2.png) <!-- أضف صورة واجهة التطبيق إذا متوفرة -->
 
 ---
 
