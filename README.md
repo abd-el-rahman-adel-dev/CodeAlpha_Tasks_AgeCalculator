@@ -7,13 +7,13 @@ It calculates your exact age based on your birthdate input.
 
 ## 🚀 Live Demo
 
-🌐 [View Live Demo](https://abd-el-rahman-adel-dev.github.io/CodeAlpha_Tasks_AgeCalculator/)
+🌐 [View Live Demo](https://codebyabdo.github.io/CodeAlpha_Tasks_AgeCalculator/)
 
 ---
 
 ## 📢 Featured on LinkedIn
 
-🔗 [Check out the LinkedIn post](https://www.linkedin.com/posts/abd-el-rahman-adel-dev_javascript-html-css-activity-7244852249334566912-8EBz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEah8IkBjMk2EJi1EE6Ixmd0ZbtCvA9HqIg)
+🔗 [Check out the LinkedIn post](https://www.linkedin.com/posts/codebyabdo_javascript-html-css-activity-7244852249334566912-8EBz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEah8IkBjMk2EJi1EE6Ixmd0ZbtCvA9HqIg)
 
 ---
 
@@ -76,8 +76,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙋‍♂️ Author
 
-- [Abd El-Rahman Adel](https://github.com/abd-el-rahman-adel-dev)
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
+- [Abd El-Rahman Adel](https://github.com/codebyabdo)
+- [LinkedIn](https://www.linkedin.com/in/codebyabdo)
 
 ---
 
