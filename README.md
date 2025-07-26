@@ -13,7 +13,7 @@ It calculates your exact age based on your birthdate input.
 
 ## 📢 Featured on LinkedIn
 
-🔗 [Check out the LinkedIn post](https://www.linkedin.com/posts/codebyabdo_javascript-html-css-activity-7244852249334566912-8EBz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEah8IkBjMk2EJi1EE6Ixmd0ZbtCvA9HqIg)
+🔗 [Check out the LinkedIn post](https://www.linkedin.com/posts/codebyabdo_javascript-html-css-activity-7244852249334566912-chGh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEah8IkBjMk2EJi1EE6Ixmd0ZbtCvA9HqIg)
 
 ---
 
